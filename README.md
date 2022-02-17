@@ -1,10 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
   Olá, meu nome é Douglas Belarmino. Sou desenvolvedor back-end.<br>
   Trabalho na [SIS Consultoria](https://www.linkedin.com/company/sisconsultoria), atuando na area de chatbot e exercendo o cargo de desenvolvedor back-end node.js.<br>
   Atuamente estou estuando sobre testes, como construir e manter software limpo.
-</p>
 
 <p align="left">
   🦄 Linguagens: <strong>JavaScript e TypeScript</strong>
