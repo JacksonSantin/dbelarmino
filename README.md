@@ -19,7 +19,7 @@ Atualmente estou estudando sobre testes, como construir e manter o código limpo
 -->
 
 <p align="left">
-  <a href="douglas.belarr@gmail.com" alt="Gmail">
+  <a href="mailto:douglas.belarr@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=douglas.belarr@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/douglas-belarmino" alt="Linkedin">
